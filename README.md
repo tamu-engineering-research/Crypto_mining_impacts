@@ -1,1 +1,1 @@
-# Crypto_mining_impacts
+# Impacts of Cryptocurrency Mining on the Electric Grid
