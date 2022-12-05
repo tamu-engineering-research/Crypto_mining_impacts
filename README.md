@@ -6,8 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-xxx 
-
+This project examines the tri-factor of carbon footprint, energy resiliency, and market price impact from large flexible loads in Texas, which is becoming the epicenter of proof-of-works type blockchain computation and cryptocurrency mining. Contrary to a lot of the existing reports, this research reveals for the first time the critical importance of locational impact on all three factors mentioned above.
 
 
 <!-- GETTING STARTED -->
