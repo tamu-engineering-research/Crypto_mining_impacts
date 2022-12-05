@@ -1,4 +1,4 @@
-# High Resolution Spatial-Temporal Analysis of Cryptocurrency Mining's Impact on the Electric Grid: Carbon Footprint, Reliability, and Price
+# High Resolution Spatial-Temporal Analysis of Flexible Cryptocurrency Mining Loads' Impact on the Electric Grid: Carbon Footprint, Reliability, and Price
 
 [![GitHub commit](https://img.shields.io/github/last-commit/tamu-engineering-research/Crypto_mining_impacts)](https://github.com/tamu-engineering-research/Crypto_mining_impacts/commits/master) &nbsp;
 [![GitHub license](https://img.shields.io/badge/license-MIT-yellow)](https://choosealicense.com/licenses/mit/)
@@ -6,7 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-xxx
+xxx 
 
 
 
@@ -19,7 +19,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* MATLAB
+
+* MATPOWER
   ```sh
   npm install npm@latest -g
   ```
@@ -48,4 +50,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Le Xie - [@your_twitter](https://twitter.com/your_username) - le.xie@tamu.edu
 
+<!---
 Project Link: [xxx](https://github.com/your_username/repo_name)
+--->
