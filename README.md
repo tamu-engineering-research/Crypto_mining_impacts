@@ -1,5 +1,8 @@
 # Impacts of Cryptocurrency Mining on the Electric Grid
 
+[![GitHub commit](https://img.shields.io/github/last-commit/tamu-engineering-research/Crypto_mining_impacts)](https://github.com/tamu-engineering-research/Crypto_mining_impacts/commits/master) &nbsp;
+[![GitHub license](https://img.shields.io/badge/license-MIT-yellow)](https://choosealicense.com/licenses/mit/)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
