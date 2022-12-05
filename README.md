@@ -1,4 +1,4 @@
-# Impacts of Cryptocurrency Mining on the Electric Grid
+# High Resolution Spatial-Temporal Analysis of Cryptocurrency Mining's Impact on the Electric Grid: Carbon Footprint, Reliability, and Price
 
 [![GitHub commit](https://img.shields.io/github/last-commit/tamu-engineering-research/Crypto_mining_impacts)](https://github.com/tamu-engineering-research/Crypto_mining_impacts/commits/master) &nbsp;
 [![GitHub license](https://img.shields.io/badge/license-MIT-yellow)](https://choosealicense.com/licenses/mit/)
