@@ -20,7 +20,8 @@ function [bus_crypto, nodal_crypto_hourly] = Step3_Get_Crypto_Load(type_location
         county_crypto_hourly_table = readtable('../../data/large_flexible_load_2021/large flexible load.csv');
         county_crypto_hourly = table2array(county_crypto_hourly_table(:,2:end));
         county_crypto_hourly = county_crypto_hourly(1:size(nodal_crypto_hourly,1),:);
-        county_crypto_name = ["Hood","Bell","Milam","Upton","Denton","Dickens","Ward","Reeves","Deaf Smith"];
+        county_crypto_hourly = county_crypto_hourly(:,[2,3,7,8]);
+        county_crypto_name = ["Ward","Denton","Milam","Reeves"];%["Hood","Bell","Milam","Upton","Denton","Dickens","Ward","Reeves","Deaf Smith"];
         assert(length(county_crypto_name)==size(county_crypto_hourly,2));
         bus2county = readmatrix('../../data/misc/bus2county.csv');
         county_name = readtable('../../data/misc/Texas_county_name.csv');
